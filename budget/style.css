@@ -1,0 +1,26 @@
+body {
+  text-transform: uppercase;
+}
+#head {
+  font-size: 20px;
+}
+#para p {
+  font-size: 25px;
+}
+h1,
+h2,
+h3 {
+  font-weight: 400;
+}
+.fa {
+  font-size: 40px;
+}
+i {
+  font-size: 25px;
+}
+.navbar a {
+  font-weight: bolder;
+}
+#coming {
+  font-size: 35px;
+}
